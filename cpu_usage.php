@@ -66,7 +66,7 @@ $cpu_data = GetCpuPercentages($stat1, $stat2);
 
 
 // výstup do fn();
-// return $data;
+// return $cpu_data;
 
 // výstup do konzole
 print_r($cpu_data);
